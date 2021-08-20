@@ -1,7 +1,4 @@
-package com.example.liyingjie.力扣;
-
-import java.util.HashMap;
-import java.util.Map;
+package com.example.leetcode.力扣;
 
 /**
  * @author liyingjie

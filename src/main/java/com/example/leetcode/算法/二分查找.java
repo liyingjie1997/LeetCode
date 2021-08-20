@@ -1,4 +1,4 @@
-package com.example.liyingjie.算法;
+package com.example.leetcode.算法;
 
 /**
  * @author liyingjie

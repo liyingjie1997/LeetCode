@@ -1,6 +1,4 @@
-package com.example.liyingjie.力扣;
-
-import java.io.Serializable;
+package com.example.leetcode.力扣;
 
 /**
  * @author liyingjie

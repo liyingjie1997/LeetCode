@@ -1,4 +1,4 @@
-package com.example.liyingjie.数据结构;
+package com.example.leetcode.数据结构;
 
 /**
  * @author liyingjie

@@ -1,7 +1,6 @@
-package com.example.liyingjie.力扣;
+package com.example.leetcode.力扣;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 /**
  * @author liyingjie
